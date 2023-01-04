@@ -1,7 +1,7 @@
 ### Olá! Tudo bem? 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando ASP.NET Core 6.0
+- 🌱 Estudando .NET 7
 - 📫 Contate-me no email: euoliveiraLeandro@gmail.com
 - 😄 Pronomes: ele/dele
 
