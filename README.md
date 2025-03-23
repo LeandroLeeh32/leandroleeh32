@@ -1,7 +1,7 @@
 ### Olá! Tudo bem? 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando .NET 9
+- 🌱 Estudando .NET 8 e entendo o 9
 - 📫 Contate-me no email: euoliveiraLeandro@gmail.com
 - 😄 Pronomes: ele/dele
 
