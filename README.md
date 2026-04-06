@@ -40,6 +40,5 @@
 
   ![Snake animation](https://raw.githubusercontent.com/LeandroLeeh32/LeandroLeeh32/output/github-contribution-grid-snake.svg)
 
-  ![Streak](https://streak-stats.demolab.com?user=leandroleeh32&theme=tokyonight)
  
 </div>
