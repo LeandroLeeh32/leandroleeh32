@@ -39,5 +39,6 @@
 
  
   ![Snake animation](https://github.com/leandroleeh32/leandroleeh32/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/leandroleeh32/leandroleeh32/output/github-contribution-grid-snake.svg)
  
 </div>
