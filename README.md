@@ -40,5 +40,6 @@
 
   ![Snake animation](https://raw.githubusercontent.com/leandroleeh32/leandroleeh32/output/github-contribution-grid-snake.svg)
   ![Stats](https://github-readme-stats.vercel.app/api?username=leandroleeh32&show_icons=true&theme=tokyonight)
+  ![Streak](https://streak-stats.demolab.com?user=leandroleeh32&theme=tokyonight)
  
 </div>
